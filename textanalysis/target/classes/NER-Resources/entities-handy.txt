@@ -1,0 +1,37 @@
+﻿سعيد	IRANIAN_FIRST_NAME
+محمد	IRANIAN_FIRST_NAME
+علی	IRANIAN_FIRST_NAME
+رضا	IRANIAN_FIRST_NAME
+محمدی	IRANIAN_LAST_NAME
+رضائی	IRANIAN_LAST_NAME
+محمد	ARABIC_FIRST_NAME
+جیم	AMERICAN_FIRST_NAME
+اوباما	AMERICAN_LAST_NAME
+تهران	IRANIAN_CITY
+شیراز	IRANIAN_CITY
+فارس	IRANIAN_PROVINCE
+تهران	IRANIAN_PROVINCE
+کالیفرنیا	FOREIGN_PROVINCE
+رم	FOREIGN_CITY
+ایتالیا	COUNTRY
+ایران	COUNTRY
+اروندرود	RIVER
+ارومیه	IRANIAN_CITY
+دریاچه ارومیه	LAKE
+خزر	SEA
+دریای چین	SEA
+اقیانوس آرام	OCEAN
+خلیج فارس	GULF
+سد امیرکبیر	DAM
+کیش	ISLAND
+قشم	ISLAND
+دماوند	MOUNTAIN
+دماوند	IRANIAN_CITY
+دماوند	IRANIAN_FAMOUS_STREET
+صادقیه	TEHRAN_ZONE
+عباس آباد	TEHRAN_ZONE
+عباس آباد	IRANIAN_CITY
+وزارت کار	IRANIAN_ORG
+وزارت تعاون، کار و رفاه اجتماعی	IRANIAN_ORG
+سامسونگ	FOREIGN_ORG
+وزارت فرهنگ و ارشاد اسلامی	IRANIAN_ORG
