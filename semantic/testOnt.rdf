@@ -1,0 +1,32 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.0="http://semanticweb.cs.vu.nl/2009/11/sem/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.1="http://semanticweb.cs.vu.nl/2009/11/sem2/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-2">
+    <rdfs:label>قدرت 7.5 ریشتر</rdfs:label>
+    <j.0:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType"/>
+    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-1">
+    <rdfs:label>زلزله</rdfs:label>
+    <j.0:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType"/>
+    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_10010101-0">
+    <j.1:hasPolarity rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.1:hasPolarity>
+    <j.0:hasPlace rdf:resource="http://www.wikidata.org/entity/Q3616"/>
+    <j.1:hasTheme rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-2"/>
+    <rdfs:label>لرزاندن</rdfs:label>
+    <j.1:hasInstrument rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-1"/>
+    <j.0:eventType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType"/>
+    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3616">
+    <rdfs:label>تهران</rdfs:label>
+    <j.0:placeType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultPlaceType"/>
+    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Place"/>
+  </rdf:Description>
+</rdf:RDF>
