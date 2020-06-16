@@ -1,32 +1,173 @@
-<rdf:RDF
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:owl="http://www.w3.org/2002/07/owl#"
-    xmlns:j.0="http://semanticweb.cs.vu.nl/2009/11/sem/"
-    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:j.1="http://semanticweb.cs.vu.nl/2009/11/sem2/"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
-  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-2">
-    <rdfs:label>قدرت 7.5 ریشتر</rdfs:label>
-    <j.0:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType"/>
-    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-1">
-    <rdfs:label>زلزله</rdfs:label>
-    <j.0:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType"/>
-    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_10010101-0">
-    <j.1:hasPolarity rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</j.1:hasPolarity>
-    <j.0:hasPlace rdf:resource="http://www.wikidata.org/entity/Q3616"/>
-    <j.1:hasTheme rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-2"/>
-    <rdfs:label>لرزاندن</rdfs:label>
-    <j.1:hasInstrument rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEntityType_10010101-1"/>
-    <j.0:eventType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType"/>
-    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3616">
-    <rdfs:label>تهران</rdfs:label>
-    <j.0:placeType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultPlaceType"/>
-    <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Place"/>
-  </rdf:Description>
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:sem="http://semanticweb.cs.vu.nl/2009/11/sem/"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:sem2="http://semanticweb.cs.vu.nl/2009/11/sem2/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/actorType -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/actorType"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/eventType -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/eventType"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/placeType -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/placeType"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/hasAgent -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/hasAgent"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/hasPatient -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/hasPatient"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/hasPolarity -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/hasPolarity"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/hasTheme -->
+
+    <AnnotationProperty rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/hasTheme"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/Actor -->
+
+    <Class rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/Event -->
+
+    <Class rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem/Place -->
+
+    <Class rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem/Place"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/defaultAnimateType_112-3 -->
+
+    <NamedIndividual rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultAnimateType_112-3">
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+        <sem:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultAnimateType"/>
+        <rdfs:label>4 سرباز</rdfs:label>
+    </NamedIndividual>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_112-0 -->
+
+    <NamedIndividual rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_112-0">
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
+        <sem:eventType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType"/>
+        <sem2:hasAgent rdf:resource="http://www.wikidata.org/entity/Q159"/>
+        <sem2:hasPatient rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultAnimateType_112-3"/>
+        <sem2:hasPolarity rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</sem2:hasPolarity>
+        <sem2:hasTheme rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_112-1"/>
+        <rdfs:label>کشتن</rdfs:label>
+    </NamedIndividual>
+    
+
+
+    <!-- http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_112-1 -->
+
+    <NamedIndividual rdf:about="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType_112-1">
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Event"/>
+        <sem:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType"/>
+        <sem:eventType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultEventType"/>
+        <sem:hasPlace rdf:resource="http://www.mitrc.ir/mobina#«منطقه-0،...»_112-2"/>
+        <sem2:hasPolarity rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</sem2:hasPolarity>
+        <rdfs:label>بمباران</rdfs:label>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.mitrc.ir/mobina#«منطقه-0،...»_112-2 -->
+
+    <NamedIndividual rdf:about="http://www.mitrc.ir/mobina#«منطقه-0،...»_112-2">
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Place"/>
+        <sem:placeType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultPlaceType"/>
+        <rdfs:label>منطقه</rdfs:label>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.wikidata.org/entity/Q159 -->
+
+    <NamedIndividual rdf:about="http://www.wikidata.org/entity/Q159">
+        <rdf:type rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem/Actor"/>
+        <sem:actorType rdf:resource="http://semanticweb.cs.vu.nl/2009/11/sem2/defaultAnimateType"/>
+        <rdfs:label>روسیه</rdfs:label>
+    </NamedIndividual>
 </rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
