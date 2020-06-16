@@ -1,0 +1,31 @@
+1	مقامات	مقام	N	N	_	8	SBJ	_	_	LOC
+2	رسمی	رسمی	ADJ	ADJ	_	1	NPOSTMOD	_	_	OBJ
+3	عراق	عراق	N	N	_	1	MOZ	_	_	B_LOC
+4	و	و	CONJ	CONJ	_	1	NCONJ	_	_	CONJ
+5	شورشیان	شورشی	N	N	_	4	POSDEP	_	_	OBJ
+6	سابق	سابق	ADJ	ADJ	_	5	NPOSTMOD	_	_	OBJ
+7	عراقی	عراقی	ADJ	ADJ	_	1	NPOSTMOD	_	_	ANM
+8	می گویند	گفتن	V	V	_	0	ROOT	_	_	A_T
+9	:	:	PUNC	PUNC	_	8	PUNC	_	_	PUNC
+10	«	«	PUNC	PUNC	_	19	PUNC	_	_	PUNC
+11	این	این	PREP	PREP	_	12	NPREMOD	_	_	PREP
+12	گروهک	گروهک	N	N	_	19	SBJ	_	_	ANM
+13	،	،	PUNC	PUNC	_	12	PUNC	_	_	PUNC
+14	شاخه	شاخه	N	N	_	19	MOS	_	_	ANM
+15	مستقیم	مستقیم	ADJ	ADJ	_	14	NPOSTMOD	_	_	OBJ
+16	القاعده	القاعده	N	N	_	14	MOZ	_	_	B_ORG
+17	در	در	PREP	PREP	_	19	NPP	_	_	PREP
+18	عراق	عراق	N	N	_	17	POSDEP	_	_	B_LOC
+19	است	بودن	V	V	_	0	8	_	_	A_N
+20	؛	؛	PUNC	PUNC	_	19	PUNC	_	_	PUNC
+21	که	که	CONJ	CONJ	_	14	NCL	_	_	CONJ
+22	اسلحه ها	اسلحه	N	N	_	26	PREDEP	_	_	OBJ
+23	و	و	CONJ	CONJ	_	22	NCONJ	_	_	CONJ
+24	سربازان	سرباز	N	N	_	23	POSDEP	_	_	ANM
+25	قدیمی	قدیمی	ADJ	ADJ	_	22	NPOSTMOD	_	_	OBJ
+26	را	را	PREP	PREP	_	29	OBJ	_	_	PREP
+27	،	،	PUNC	PUNC	_	26	PUNC	_	_	PUNC
+28	مشارکت	مشارکت	N	N	_	29	NVE	_	_	ACT
+29	داده‌است	دادن	V	V	_	21	PRD	_	_	A_T
+30	»	»	PUNC	PUNC	_	19	PUNC	_	_	PUNC
+31	.	.	PUNC	PUNC	_	19	PUNC	_	_	PUNC

@@ -1,0 +1,13 @@
+1	از	از	PREP	PREP	_	12	ADV	_	_	PREP
+2	طرف	طرف	N	N	_	1	POSDEP	_	_	LOC
+3	حامیان	حامی	N	N	_	2	MOZ	_	_	ANM
+4	همفکر	همفکر	ADJ	ADJ	_	3	NPOSTMOD	_	_	OBJ
+5	خارجی	خارجی	ADJ	ADJ	_	3	NPOSTMOD	_	_	ANM
+6	،	،	PUNC	PUNC	_	5	PUNC	_	_	PUNC
+7	به	به	PREP	PREP	_	12	ADV	_	_	PREP
+8	جبهه	جبهه	N	N	_	7	POSDEP	_	_	B_ORG
+9	النصره	النصره	N	N	_	8	MOZ	_	_	I_ORG
+10	پول	پول	N	N	_	12	OBJ	_	_	OBJ
+11	سرازیر	سرازیر	ADJ	ADJ	_	12	MOS	_	_	OBJ
+12	می شود	شدن	V	V	_	0	ROOT	_	_	PAS
+13	.	.	PUNC	PUNC	_	12	PUNC	_	_	PUNC

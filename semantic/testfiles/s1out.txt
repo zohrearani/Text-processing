@@ -1,0 +1,16 @@
+تنها گروهک شورشی در سوریه ، با مهر تایید صریح القاعده ، در حال تبدیل شدن به یکی از اثرگذارترین نیروهای جنگنده است و یک چالش سخت را برای آمریکا و سایر کشورهایی که می خواهند از شورشیان ، و نه افراطگرایان مسلمان ، حمایت کنند ، ایجاد کرده‌است 
+	rel	3	1	بودن	Agent	گروهک	true
+	rel	139	0.8	گروهک	Description	شورشی	true
+	rel	150	1	گروهک	Place	سوریه	true
+	rel	99	0.9	بودن	Manner	مهر تایید	true
+	rel	139	0.8	مهر تایید	Description	صریح	true
+	rel	124	0.8	مهر تایید	Agent	القاعده	true
+	rel	78	0.5	گروهک	Description	حال تبدیل شدن	true
+	rel	145	0.8	حال تبدیل شدن	Theme	یکی از نیرو	true
+	rel	139	0.8	یکی از اثرگذار نیرو	Description	جنگنده	true
+	rel	111	1	ایجاد کردن	Agent	گروهک	true
+	rel	139	0.8	یک چالش	Description	سخت	true
+	rel	48	1	ایجاد کردن	Theme	یک چالش	true
+	rel	90	1	ایجاد کردن	Patient	امریکا	true
+	rel	44	0.6	خواستن	Theme	سایر کشور	true
+	rel	139	0.8	افراطگرایان	Description	مسلمان	true

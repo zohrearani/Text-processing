@@ -1,0 +1,17 @@
+نظامیان آن ، اقلیت کوچکی از شورشیان هستند که جسارت و مهارت کافی برای حمله به مواضع مستحکم و هدایت بقیه جنگجویان برای تسخیر پایگاه های نظامی و میدان های نفتی را دارند 
+	rel	3	1	بودن	Agent	نظامی آن	true
+	rel	78	0.5	نظامی آن	Description	اقلیت	true
+	rel	139	0.8	اقلیت	Description	کوچک	true
+	rel	56	1	اقلیت	Patient	شورشی	true
+	rel	171		جسارت داشتن	Theme	مهارت	true
+	rel	139	0.8	مهارت	Description	کافی	true
+	rel	146	0.7	جسارت داشتن	Theme	حمله	true
+	rel	148	0.9	حمله	EndPlace	موضع	true
+	rel	139	0.8	موضع	Description	مستحکم	true
+	rel	171		جسارت داشتن	Theme	هدایت	true
+	rel	124	0.8	هدایت	Agent	بقیه	true
+	rel	122	0.7	جنگجو	Has	بقیه	true
+	rel	98	0.9	هدایت	Cause	تسخیر	true
+	rel	119	0.7	تسخیر	Place	پایگاه	true
+	rel	139	0.8	پایگاه	Description	نظامی	true
+	rel	139	0.8	میدان	Description	نفتی	true

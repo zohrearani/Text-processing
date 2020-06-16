@@ -1,0 +1,19 @@
+1	هر چه	هر چه	ADV	ADV	_	5	ADV	_	_	OBJ
+2	موفقیت‌های	موفقیت	N	N	_	5	SBJ	_	_	ACT
+3	آنها	آنها	PR	PR	_	2	MOZ	_	_	ANM
+4	بیشتر	بیش	ADJ	ADJ	_	5	ADV	_	_	OBJ
+5	می شود	شدن	V	V	_	12	VCONJ	_	_	PAS
+6	،	،	PUNC	PUNC	_	5	PUNC	_	_	PUNC
+7	سلاح های	سلاح	N	N	_	9	PREDEP	_	_	OBJ
+8	بیشتری	بیش	ADJ	ADJ	_	7	NPOSTMOD	_	_	OBJ
+9	را	را	PREP	PREP	_	12	OBJ	_	_	PREP
+10	به	به	PREP	PREP	_	12	VPP	_	_	PREP
+11	دست	دست	N	N	_	10	POSDEP	_	_	Time
+12	می‌آورند	آوردن	V	V	_	13	PREDEP	_	_	A_T
+13	و	و	CONJ	CONJ	_	18	VCONJ	_	_	CONJ
+14	جنگنده های	جنگنده	N	N	_	16	PREDEP	_	_	ANM
+15	بیشتری	بیش	ADJ	ADJ	_	14	NPOSTMOD	_	_	OBJ
+16	را	را	PREP	PREP	_	18	OBJ	_	_	PREP
+17	جذب	جذب	N	N	_	18	NVE	_	_	ACT
+18	می کنند	کردن	V	V	_	0	ROOT	_	_	A_T
+19	.	.	PUNC	PUNC	_	18	PUNC	_	_	PUNC

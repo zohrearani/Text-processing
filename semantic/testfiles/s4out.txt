@@ -1,0 +1,9 @@
+هر چه موفقیت‌های آنها بیشتر می شود ، سلاح های بیشتری را به دست می‌آورند و جنگنده های بیشتری را جذب می کنند 
+	rel	96	0.8	شدن	Manner	هر چه	true
+	rel	12	1	شدن	Theme	موفقیت	true
+	rel	124	0.8	موفقیت	Agent	آنها	true
+	rel	95	0.95	شدن	Manner	بیش	true
+	rel	139	0.8	سلاح	Description	بیش	true
+	rel	47	1	به دست آوردن	Theme	سلاح	false
+	rel	139	0.8	جنگنده	Description	بیش	true
+	rel	46	1	جذب کردن	Patient	جنگنده	true

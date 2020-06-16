@@ -1,0 +1,21 @@
+یک سرباز کهنه کار القاعده ، که مدعی است نیروهای جبهه النصره را در سوریه یاری کرده‌است ، گفت : " این فقط یک راه ساده برای بازگشت به نفع برادران سوری ما است که با ما در سرزمین های عراق جنگیدند " 
+	rel	2	1	گفتن	Agent	یک سرباز	true
+	rel	139	0.8	یک سرباز	Description	کهنه کار	true
+	rel	122	0.7	القاعده	Has	یک سرباز	true
+	rel	122	0.7	جبهه النصره	Has	نیرو	true
+	rel	46	1	یاری کردن	Patient	نیرو	true
+	rel	88	1	یاری کردن	Place	سوریه	true
+	rel	165	1	مدعی بودن	Theme	یاری کردن	true
+	rel	96	0.8	بودن	Manner	فقط	true
+	rel	78	0.5	این	Description	یک راه	true
+	rel	139	0.8	یک راه	Description	ساده	true
+	rel	98	0.9	یک راه	Cause	بازگشت	true
+	rel	146	0.7	بودن	Theme	نفع	true
+	rel	124	0.8	نفع	Agent	برادران	true
+	rel	139	0.8	برادران	Description	سوری	true
+	rel	122	0.7	ما	Has	برادران	true
+	rel	75	1	گفتن	Theme	بودن	true
+	rel	36	0.6	جنگیدن	Theme	یک راه	true
+	rel	90	1	جنگیدن	Patient	ما	true
+	rel	88	1	جنگیدن	Place	سرزمین	true
+	rel	116	0.7	عراق	Has	سرزمین	true

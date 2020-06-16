@@ -1,0 +1,13 @@
+مقامات رسمی عراق و شورشیان سابق عراقی می گویند : « این گروهک ، شاخه مستقیم القاعده در عراق است ؛ که اسلحه ها و سربازان قدیمی را ، مشارکت داده‌است » 
+	rel	13	1	گفتن	Agent	مقام	true
+	rel	139	0.8	مقام	Description	رسمی	true
+	rel	116	0.7	عراق	Has	مقام	true
+	rel	139	0.8	شورشی	Description	سابق	true
+	rel	139	0.8	مقام	Description	عراقی	true
+	rel	3	1	بودن	Agent	گروهک	true
+	rel	78	0.5	گروهک	Description	شاخه	true
+	rel	139	0.8	شاخه	Description	مستقیم	true
+	rel	122	0.7	القاعده	Has	شاخه	true
+	rel	150	1	بودن	Place	عراق	true
+	rel	139	0.8	اسلحه	Description	قدیمی	true
+	rel	47	1	مشارکت دادن	Theme	اسلحه	true

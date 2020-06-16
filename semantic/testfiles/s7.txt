@@ -1,0 +1,34 @@
+1	آمریکا	امریکا	N	N	_	19	SBJ	_	_	B_LOC
+2	که	که	CONJ	CONJ	_	1	NCL	_	_	CONJ
+3	احساس	احساس	N	N	_	4	NVE	_	_	ACT
+4	می کند	کردن	V	V	_	2	PRD	_	_	A_T
+5	ممکن	ممکن	ADJ	ADJ	_	6	MOS	_	_	OBJ
+6	است	بودن	V	V	_	4	VCL	_	_	A_N
+7	زمان	زمان	N	N	_	16	SBJ	_	_	Time
+8	برای	برای	PREP	PREP	_	16	ADV	_	_	PREP
+9	بشار	بشار	N	N	_	8	POSDEP	_	_	B_PER
+10	اسد	اسد	N	N	_	9	MOZ	_	_	I_PER
+11	،	،	PUNC	PUNC	_	10	PUNC	_	_	PUNC
+12	رییس جمهور	رییس جمهور	N	N	_	16	SBJ	_	_	ANM
+13	سوریه	سوریه	N	N	_	12	MOZ	_	_	B_LOC
+14	،	،	PUNC	PUNC	_	13	PUNC	_	_	PUNC
+15	پایان	پایان	N	N	_	16	NVE	_	_	Time
+16	یابد	یافتن	V	V	_	6	VCL	_	_	A_T
+17	،	،	PUNC	PUNC	_	16	PUNC	_	_	PUNC
+18	امیدوار	امیدوار	ADJ	ADJ	_	19	MOS	_	_	OBJ
+19	است	بودن	V	V	_	0	ROOT	_	_	A_N
+20	با	با	PREP	PREP	_	33	ADV	_	_	PREP
+21	منزوی	منزوی	ADJ	ADJ	_	22	PREDEP	_	_	OBJ
+22	کردن	کردن	N	N	_	20	POSDEP	_	_	ACT
+23	این	این	PREP	PREP	_	24	NPREMOD	_	_	PREP
+24	گروهک	گروهک	N	N	_	22	MOZ	_	_	ANM
+25	،	،	PUNC	PUNC	_	24	PUNC	_	_	PUNC
+26	مانع	مانع	N	N	_	33	MOS	_	_	OBJ
+27	گرفته	گرفته	ADJ	ADJ	_	28	PREDEP	_	_	ACT
+28	شدن	شدن	N	N	_	26	MOZ	_	_	ACT
+29	خاک	خاک	N	N	_	28	POSDEP	_	_	LOC
+30	سوریه	سوریه	N	N	_	29	MOZ	_	_	B_LOC
+31	توسط	توسط	PREP	PREP	_	28	ADV	_	_	PREP
+32	آنها	آنها	PR	PR	_	31	POSDEP	_	_	ANM
+33	شود	شدن	V	V	_	18	ACL	_	_	PAS
+34	.	.	PUNC	PUNC	_	19	PUNC	_	_	PUNC

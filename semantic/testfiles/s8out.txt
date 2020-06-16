@@ -1,0 +1,26 @@
+در حالی که آمریکا مخالفان سوریه را برای تشکیل یک دولت جایگزین قابل قبول ترغیب می کند ، قصد دارد که جبهه النصره را به عنوان یک سازمان تروریستی در فهرست سیاه خود وارد کند ؛ تا انجام معاملات مالی آمریکا با این گروهک غیرقانونی باشد و همچنبن بتواند ، تحریم های مشابهی را از اروپا برای این گروهک درخواست کند 
+	rel	97	0.7	قصد داشتن	Theme	حالی	true
+	rel	13	1	ترغیب کردن	Agent	امریکا	true
+	rel	117	0.9	سوریه	Has	مخالف	true
+	rel	46	1	ترغیب کردن	Patient	مخالف	true
+	rel	98	0.9	ترغیب کردن	Cause	تشکیل	true
+	rel	134	0.8	تشکیل	Theme	یک دولت	true
+	rel	139	0.8	یک دولت	Description	جایگزین	true
+	rel	139	0.8	یک دولت	Description	قابل قبول	true
+	rel	73	1	قصد داشتن	Theme	وارد کردن	true
+	rel	46	1	وارد کردن	Patient	جبهه النصره	true
+	rel	100	1	وارد کردن	Theme	عنوان	true
+	rel	124	0.8	عنوان	Agent	یک سازمان	true
+	rel	139	0.8	یک سازمان	Description	تروریستی	true
+	rel	97	0.7	وارد کردن	Theme	فهرست سیاه خود	true
+	rel	109	0.9	قصد داشتن	Cause	غیرقانونی بودن	true
+	rel	134	0.8	انجام	Theme	معامله	true
+	rel	139	0.8	معامله	Description	مالی	true
+	rel	119	0.7	معامله	Place	امریکا	true
+	rel	90	1	غیرقانونی بودن	Patient	گروهک	true
+	rel	9	0.4	توانستن	Theme	همچنبن	true
+	rel	139	0.8	تحریم	Description	مشابه	true
+	rel	48	1	درخواست کردن	Theme	تحریم	true
+	rel	90	1	درخواست کردن	Patient	اروپا	true
+	rel	90	1	تحریم	Patient	گروهک	true
+	rel	75	1	قصد داشتن	Theme	درخواست کردن	true

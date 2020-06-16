@@ -1,0 +1,32 @@
+1	نظامیان	نظامی	N	N	_	8	SBJ	_	_	ANM
+2	آن	آن	PR	PR	_	1	MOZ	_	_	OBJ
+3	،	،	PUNC	PUNC	_	2	PUNC	_	_	PUNC
+4	اقلیت	اقلیت	N	N	_	8	MOS	_	_	ANM
+5	کوچکی	کوچک	ADJ	ADJ	_	4	NPOSTMOD	_	_	OBJ
+6	از	از	PREP	PREP	_	4	VPP	_	_	PREP
+7	شورشیان	شورشی	N	N	_	6	POSDEP	_	_	ANM
+8	هستند	بودن	V	V	_	0	ROOT	_	_	A_N
+9	که	که	CONJ	CONJ	_	7	NCL	_	_	CONJ
+10	جسارت	جسارت	N	N	_	31	SBJ	_	_	ACT
+11	و	و	CONJ	CONJ	_	10	NCONJ	_	_	CONJ
+12	مهارت	مهارت	N	N	_	11	POSDEP	_	_	ACT
+13	کافی	کافی	ADJ	ADJ	_	12	NPOSTMOD	_	_	OBJ
+14	برای	برای	PREP	PREP	_	31	NPP	_	_	PREP
+15	حمله	حمله	N	N	_	14	POSDEP	_	_	ACT
+16	به	به	PREP	PREP	_	15	NPP	_	_	PREP
+17	مواضع	موضع	N	N	_	16	POSDEP	_	_	LOC
+18	مستحکم	مستحکم	ADJ	ADJ	_	17	NPOSTMOD	_	_	OBJ
+19	و	و	CONJ	CONJ	_	10	NCONJ	_	_	CONJ
+20	هدایت	هدایت	N	N	_	19	POSDEP	_	_	ACT
+21	بقیه	بقیه	N	N	_	20	MOZ	_	_	ANM
+22	جنگجویان	جنگجو	N	N	_	21	MOZ	_	_	ANM
+23	برای	برای	PREP	PREP	_	20	ADV	_	_	PREP
+24	تسخیر	تسخیر	N	N	_	23	POSDEP	_	_	ACT
+25	پایگاه های	پایگاه	N	N	_	24	MOZ	_	_	LOC
+26	نظامی	نظامی	ADJ	ADJ	_	25	NPOSTMOD	_	_	OBJ
+27	و	و	CONJ	CONJ	_	24	NCONJ	_	_	CONJ
+28	میدان های	میدان	N	N	_	27	POSDEP	_	_	LOC
+29	نفتی	نفتی	ADJ	ADJ	_	28	NPOSTMOD	_	_	OBJ
+30	را	را	PREP	PREP	_	31	OBJ	_	_	PREP
+31	دارند	داشتن	V	V	_	9	PRD	_	_	A_T
+32	.	.	PUNC	PUNC	_	8	PUNC	_	_	PUNC

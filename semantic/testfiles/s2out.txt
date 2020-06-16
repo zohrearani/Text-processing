@@ -1,0 +1,6 @@
+از طرف حامیان همفکر خارجی ، به جبهه النصره پول سرازیر می شود 
+	rel	125	0.5	حامی	Has	طرف	true
+	rel	139	0.8	حامی	Description	همفکر	true
+	rel	139	0.8	حامی	Description	خارجی	true
+	rel	90	1	سرازیر شدن	Patient	جبهه النصره	true
+	rel	52	1	سرازیر شدن	Theme	پول	true
